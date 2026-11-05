@@ -2,7 +2,19 @@
 
 Stand: 05.11.2026. Technisch korrigierte Kopien der bereitgestellten Max-Muster-Dateien. Keine Anpassung an Dr. Mahsa Motlaghs Geschäftsmodell oder den Gründungsbeginn 09.12.2026. Die Quelldateien bleiben unverändert.
 
-## Verwendung
+## Zentrale Arbeitsdatei mit Start 10.12.2026
+
+`Finanzplan_Mahsa_Motlagh_Start_10-12-2026.xlsx` ist die aktualisierte zentrale Fassung. Sie enthält ein Startblatt mit dem tatsächlichen geplanten Tätigkeitsbeginn **10.12.2026**, den kurzen Startmonat Dezember 2026, die monatliche Planung 2027 und die Jahresvorschau 2028/2029.
+
+Januar bis November 2026 wurden bei Umsatzmengen, laufenden Betriebskosten und Privatentnahmen auf null gesetzt und die betreffenden Monatsspalten ausgeblendet. Die Kalenderjahresgrenzen bleiben erhalten, sodass Dezember nicht doppelt erfasst wird. Die Monatsüberschrift 01.12.2026 bezeichnet den Monat, nicht den Tätigkeitsbeginn. Eventuelle tatsächliche Vorgründungskosten sind zusätzlich gesondert zu erfassen.
+
+Die ursprünglichen Dezember-Musterwerte wurden beibehalten und kommentiert, nicht automatisch auf 22/31 gekürzt. Aufträge, Fälligkeiten, Privatbedarf und Startfinanzierung sind weiterhin zu bestätigen. Das unbestätigte Rücklagenziel von 6.500 € in der 2026-Ergebnisübersicht ist keine erfasste Bankbewegung. Die Datei ist daher ein Planentwurf, keine fertig individualisierte Tragfähigkeitsrechnung.
+
+Bei unverändertem Dezember-Musterumsatz von 4.375 €, Gewinn vor persönlichen Steuern von 3.650 € und Anfangsliquidität null ergibt sich ein Endbestand zum 31.12.2026 von **−420 €**. Dieser wird nach Januar 2027 übertragen. Der niedrigste Monatsendbestand 2027 ist **−1.989,25 €**. Bestätigte Finanzierung und reale Startauszahlungen müssen ergänzt werden; potenzielle Kredite werden nicht als bereits eingegangen behandelt.
+
+Neu berechnet und geprüft: keine Excel-Fehlerwerte oder externen Arbeitsmappenverknüpfungen, kein operativer Umsatz oder laufender Zahlungsabfluss vor Dezember 2026, richtige Datumswerte, identischer Jahresübertrag und unveränderter 2027-Musterumsatz. Vorherige Dateien bleiben als ältere Fassungen erhalten. Die Businessplan-Dokumente nennen noch den früheren Start 09.12.2026 und müssen vor gemeinsamer Einreichung ebenfalls angepasst werden.
+
+## Verwendung der älteren korrigierten Vorlagen
 
 - `Finanzplan_2026_korrigiert.xlsx`: Hauptansicht 2026, integrierte 2027-Detailplanung auf den Blättern mit Präfix `2027`.
 - `Finanzplan_2027ff_korrigiert.xlsx`: Hauptansicht 2027 mit Vorschau 2028/2029, integrierte 2026-Planung mit Präfix `2026`.
