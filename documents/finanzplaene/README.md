@@ -2,7 +2,11 @@
 
 Stand: 05.11.2026. Technisch korrigierte Kopien der bereitgestellten Max-Muster-Dateien. Keine Anpassung an Dr. Mahsa Motlaghs Geschäftsmodell oder den Gründungsbeginn 09.12.2026. Die Quelldateien bleiben unverändert.
 
-## Zentrale Arbeitsdatei mit Start 10.12.2026
+## Aktuell: zwei verknüpfte Dateien
+
+Im Unterordner `aufgeteilt/` liegen die separate 2026-Datei und die extern verknüpfte 2027ff-Datei. Das ZIP enthält beide Dateien und eine Anleitung. Dieses Paar ist für die weitere Bearbeitung vorgesehen. Ältere Ein-Datei-Versionen bleiben erhalten, synchronisieren sich aber nicht.
+
+## Frühere zentrale Arbeitsdatei mit Start 10.12.2026
 
 `Finanzplan_Mahsa_Motlagh_Start_10-12-2026.xlsx` ist die aktualisierte zentrale Fassung. Sie enthält ein Startblatt mit dem tatsächlichen geplanten Tätigkeitsbeginn **10.12.2026**, den kurzen Startmonat Dezember 2026, die monatliche Planung 2027 und die Jahresvorschau 2028/2029.
 
