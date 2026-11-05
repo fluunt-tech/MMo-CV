@@ -2,7 +2,7 @@
 
 Geplanter Tätigkeitsbeginn: **10.12.2026**.
 
-1. `Finanzplan_2026_Start_10-12-2026.xlsx`: nur das kurze Gründungsjahr 2026; operative Werte Januar bis November sind null und ausgeblendet. Keine Folgejahresprognose in dieser Datei.
+1. `Finanzplan_2026_Start_10-12-2026.xlsx`: nur das kurze Gründungsjahr 2026; Januar bis Dezember sind sichtbar, nur Dezember ist befüllt. Keine Folgejahresprognose in dieser Datei.
 2. `Finanzplan_2027ff_verknuepft.xlsx`: monatliche Planung 2027, Jahresvorschau 2028/2029 und die verknüpfte Übersicht für 2026.
 
 ## So funktioniert die Verknüpfung
@@ -23,6 +23,12 @@ Es gibt **keine Rückverknüpfung** aus 2026 nach 2027. Damit entsteht keine zir
 
 Beide Dateien wurden mit LibreOffice Calc neu berechnet; alle sichtbaren und ausgeblendeten Blätter wurden auf gespeicherte Excel-Fehlerwerte geprüft. Keine Fehlerwerte gefunden. Der ausgelieferte externe Dateipfad wurde auf den reinen Quelldateinamen gesetzt und geprüft; er enthält keinen Workspace- oder anderen lokalen Verzeichnispfad. Die interaktive Aktualisierung durch Microsoft Excel wurde hier nicht ausgeführt und hängt von den dortigen Verknüpfungs- und Sicherheitseinstellungen ab.
 
-Die gespeicherten Werte stimmen überein: 2026-Umsatz 4.375 €, Gewinn vor Steuern 3.650 €, Dezember-Endbestand und Januar-Anfangsbestand −420 €. Die ursprünglichen Dezember-Musterwerte wurden nicht zeitanteilig gekürzt. Es handelt sich weiterhin um unbestätigte Beispielwerte für Preise, Mengen, Kosten, Privatentnahmen, Rücklagen und Finanzierung. Das Startblatt und die Parameterblätter erläutern die nötigen Eingaben. Ein potenzieller Kredit wird nicht als tatsächlich eingegangene Zahlung behandelt.
+Aktualisierte Dezemberplanung nach Nutzerangabe: **0 € betrieblicher Umsatz, 0 € betriebliche Ausgaben, 0 € Gewinn**, keine geplanten Startinvestitionen oder Kreditbewegungen. Januar bis Dezember bleiben sichtbar. Januar–November enthalten keine Eingaben; rechnerische Nullergebnisse sind dort optisch ausgeblendet, während die Formeln erhalten bleiben. Nur Dezember ist befüllt. Die Hochrechnung für 2026 wurde entfernt. Folgejahre stehen ausschließlich in der zweiten Datei.
+
+Im neuen Blatt `Gründungszuschuss` wird der volle Monatsbetrag von **3.300 €** als Nutzerangabe hinterlegt. Vorläufige Planannahme: **3.300 € / 30 × 22 Kalendertage = 2.420 €** für 10.–31.12.2026. Anspruch, Förderkomponenten, anteiliger Betrag und tatsächlicher Auszahlungstermin sind anhand des Bescheids zu bestätigen. Es wird angenommen, dass der Betrag im Dezember zufließt und vollständig dem Unternehmen als Einlage zugeführt wird. Bei späterem Zufluss muss die Liquiditätsplanung angepasst werden.
+
+Der Zuschuss ist **kein betrieblicher Umsatz und kein betrieblicher Gewinn**. Die geplante Zuführung ist separat in `Liquiditätsplan!O40` erfasst und erhöht den fortgeschriebenen Bestand in `O37`. Damit betragen Dezember-Endbestand und Januar-Anfangsbestand aktuell **2.420 €**. Die verknüpfte Jahresübersicht übernimmt für 2026 Umsatz und Gewinn von jeweils null. Privater Lebensunterhalt wird aus dieser Planung nicht finanziert und benötigt eine separate Deckung. Keine doppelte Erfassung als Anfangsbestand oder Einlage im Jahr 2027.
+
+Beide Dateien wurden nach dieser Änderung neu berechnet: keine gespeicherten Excel-Fehlerwerte; alle zwölf Monatsspalten sichtbar; nur Dezember befüllt; Hochrechnung entfernt; betriebliche Nullplanung und verknüpfter Übertrag von 2.420 € geprüft. Die interaktive Aktualisierung in Microsoft Excel hängt weiterhin von den lokalen Sicherheitseinstellungen ab. 2027-Honorare, Mengen, Kosten und Privatentnahmen bleiben unbestätigte Musterwerte.
 
 Die früheren integrierten Arbeitsmappen bleiben als ältere Alternativen erhalten und synchronisieren sich nicht mit diesen Dateien. Für die weitere Bearbeitung dieses Dateipaar verwenden. Die Businessplan-Dokumente nennen weiterhin den früheren Beginn 09.12.2026 und müssen vor gemeinsamer Einreichung ebenfalls auf 10.12.2026 geändert werden.
